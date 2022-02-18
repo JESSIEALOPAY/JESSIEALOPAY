@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jessie Alopay</h1>
 <h3 align="center">I'm Jessie. I know Python and Javascript. I'm backend developer but not senior.</h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JESSIEALOPAY&show_icons=true&theme=radical)
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
